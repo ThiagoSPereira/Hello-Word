@@ -1,3 +1,3 @@
 # Hello-Word
 
-Este repositorio é usado para aprender a usar o GitHub
+Este repositorio é usado para estudar o GitHub
